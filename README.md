@@ -26,12 +26,13 @@ The shiny new scrabble system instead stores the score per letter, which makes i
 Etc.
 Your mission, should you choose to accept it, is to transform the legacy data format to the shiny new format.
 
-Goals
-#practice breaking down a problem and solving itin Python from scratch.
-#practice working with dictionaries and for loops.
+ # Goals
 
-Resources
-legacy_data= {
+ practice breaking down a problem and solving itin Python from scratch.
+ practice working with dictionaries and for loops.
+
+ # Resources
+  legacy_data= {
     1: ["A", "E", "I", "O", "U", "L", "N", "R", "S", "T"],
     2: ["D", "G"],
     3: ["B", "C", "M", "P"],
@@ -40,14 +41,14 @@ legacy_data= {
     8: ["J", "X"],
     10: ["Q", "Z"]}
     
-Breaking down the problem
+# Breaking down the problem
 
-Step1:
+# Step1:
 Created a legacy words list as specified in the requirement.
-Step 2:
+# Step 2:
 Created a dictionary with each correspoinding word in the program.
-Step 3:
-Sorted the dictionary list and append.
+# Step 3:
+Sorted the dictionary list as desired.
 
 
 
